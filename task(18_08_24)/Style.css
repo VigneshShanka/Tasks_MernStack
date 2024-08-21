@@ -1,6 +1,6 @@
 /* General styles */
 body {
-  background-image: url('dogsss.jpg');
+  background-image: url('pic.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -19,12 +19,12 @@ h2{
   justify-content: center;
   position: relative;
   padding-top: 225px;
-  color: rgb(0, 0, 0);
+  color: white;
 }
 
 /* Navigation bar styles */
 nav {
-  background-color: #f0deeea1;
+  background-color: black;
     padding: 15px 0;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
 }
